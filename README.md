@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @SumitGupta9752
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Sumit Gupta</h1>
+<h3 align="center">A Passionate Full Stack Developer | Flutter & Android Enthusiast | AI & IoT Innovator</h3>
 
-<!---
-SumitGupta9752/SumitGupta9752 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708957/screenshots/5760673/media/b6f8c6f6c9c84a03e37dcd7db62b62c3.gif">
+
+- 🔭 I’m currently working on **Smart Kisan - AI Powered Farming App**
+- 🌱 I’m learning **Next.js | TypeScript | Generative AI**
+- 💬 Ask me about **Flutter, Android, Firebase, Python, ML, Node.js, MongoDB**
+- 💡 I'm also exploring **IoT-enabled smart solutions** for agriculture
+- 🧠 Currently building **AI alerts, crop grading & data pipelines**
+- 📫 Reach me at: **sumitgupta.dev@gmail.com**
+- 📄 Know about my experiences: [My Resume](https://your-resume-link.com)
+
+---
+
+### 🛠️ Tech Stack
+```bash
+Languages:     Java | Dart | Python | JavaScript | C++ | SQL
+Mobile:        Flutter | Android (Java)
+Web:           HTML | CSS | React.js | Next.js | Node.js | Express.js
+Database:      Firebase | MongoDB | MySQL
+Tools/Other:   Git | GitHub | VS Code | Postman | Figma | Firebase | Linux
