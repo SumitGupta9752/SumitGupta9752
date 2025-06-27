@@ -131,42 +131,60 @@
 
 ---
 
-## 🎨 Animated Tech Showcase
+## 🎨 Professional Tech Showcase
 
+<!-- Advanced System Architecture Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%F0%9F%93%B1+Mobile+Development%3A+Flutter+%7C+Android+%7C+iOS;%F0%9F%8C%90+Web+Development%3A+React+%7C+Next.js+%7C+Node.js;%F0%9F%A4%96+AI%2FML%3A+Python+%7C+TensorFlow+%7C+Computer+Vision;%E2%9A%A1+IoT%3A+ESP32+%7C+Arduino+%7C+Real-time+Systems;%E2%98%81%EF%B8%8F+Cloud%3A+Firebase+%7C+AWS+%7C+MongoDB+Atlas;%F0%9F%9A%80+DevOps%3A+Git+%7C+CI%2FCD+%7C+Docker" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=800&color=0099FF&center=true&vCenter=true&multiline=true&width=900&height=180&lines=%E2%9A%A1+Architecture%3A+Microservices+%7C+Serverless+%7C+Event-Driven;%F0%9F%94%90+Security%3A+JWT+%7C+OAuth2+%7C+Encryption+%7C+API+Gateway;%F0%9F%93%8A+Performance%3A+Caching+%7C+Load+Balancing+%7C+CDN;%F0%9F%9A%80+Deployment%3A+Docker+%7C+Kubernetes+%7C+CI%2FCD+Pipelines" alt="Advanced Tech Stack" />
+</p>
+
+<!-- Professional Coding Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Professional Coding" width="500"/>
+</div>
+
+<!-- Technical Excellence Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&duration=4000&pause=1200&color=FF6B35&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Engineer;AI%2FML+Solutions+Architect;IoT+%26+Embedded+Systems+Specialist;Cloud+Infrastructure+Designer" alt="Professional Titles" />
+</p>
+
+<!-- Complex Code Architecture Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=600&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=200&lines=class+SmartKisan+%7B;++private+AIService+aiEngine%3B;++private+IoTManager+sensorNetwork%3B;++private+CloudDB+database%3B;++public+void+analyzeCropHealth()%7B;++++AIModel+model+%3D+aiEngine.load(%22crop_detection%22)%3B;++++SensorData+data+%3D+sensorNetwork.collect()%3B;++++Prediction+result+%3D+model.predict(data)%3B;++%7D;%7D" alt="Complex Code Architecture" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="System Architecture" width="400"/>
 </div>
 
+<!-- Advanced Technical Stack Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=00D4AA&center=true&vCenter=true&width=700&lines=Building+the+Future+with+Code+%F0%9F%92%BB;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Innovation+Through+Technology+%F0%9F%9A%80" alt="Mission Statement" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=15&duration=3200&pause=900&color=00C896&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Real-time+Data+Processing+%E2%86%92+Apache+Kafka+%7C+Redis;Machine+Learning+Pipeline+%E2%86%92+TensorFlow+%7C+PyTorch+%7C+MLOps;Cloud+Native+Development+%E2%86%92+AWS+%7C+GCP+%7C+Azure;Mobile+Cross-Platform+%E2%86%92+Flutter+%7C+React+Native" alt="Advanced Stack" />
 </p>
 
-<!-- Animated Programming Languages -->
+<!-- Professional Development Workflow -->
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Development Workflow" width="450"/>
+</div>
+
+<!-- Technical Innovation Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&repeat=true&width=600&lines=const+developer+%3D+%7B;++name%3A+'Sumit+Gupta'%2C;++skills%3A+%5B'Flutter'%2C+'AI'%2C+'IoT'%5D%2C;++passion%3A+'Problem+Solving'%2C;++mission%3A+'Code+for+Impact';%7D%3B" alt="Code Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monaco&size=14&duration=3800&pause=1000&color=FF4081&center=true&vCenter=true&multiline=true&width=750&height=140&lines=%F0%9F%94%AC+Research%3A+Computer+Vision+%7C+NLP+%7C+Deep+Learning;%F0%9F%93%A1+IoT+Protocols%3A+MQTT+%7C+CoAP+%7C+LoRaWAN+%7C+5G;%E2%9A%99%EF%B8%8F+DevOps%3A+Terraform+%7C+Ansible+%7C+Prometheus+%7C+Grafana;%F0%9F%9B%A1%EF%B8%8F+Security%3A+Zero-Trust+%7C+OWASP+%7C+Penetration+Testing" alt="Technical Innovation" />
+</p>
+
+<!-- High-Performance Code Simulation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=12&duration=2500&pause=400&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=180&lines=%2F%2F+High-Performance+Algorithm+Implementation;async+function+processRealTimeData(stream)+%7B;++const+pipeline+%3D+await+createMLPipeline()%3B;++const+results+%3D+await+Promise.all(%5B;++++pipeline.preprocess(stream)%2C;++++aiModel.inference(stream)%2C;++++iotSensor.calibrate();++%5D)%3B;++return+optimizeOutput(results)%3B;%7D" alt="High-Performance Code" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="400"/>
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Data Processing" width="380"/>
 </div>
 
-<!-- Tech Stack with Animated Icons -->
+<!-- Enterprise-Level Technical Skills -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+Currently+Mastering%3A;TypeScript+%E2%9E%A4+Next.js+14+%E2%9E%A4+Advanced+AI%2FML;ESP32+IoT+%E2%9E%A4+Microservices+%E2%9E%A4+Cloud+Architecture" alt="Learning Path" />
+  <img src="https://readme-typing-svg.demolab.com?font=Menlo&size=16&duration=4200&pause=1100&color=1DB954&center=true&vCenter=true&multiline=true&width=850&lines=%F0%9F%8F%97%EF%B8%8F+Enterprise+Solutions%3A+Scalable+%7C+Fault-Tolerant+%7C+High-Availability;%F0%9F%A7%A0+AI%2FML+Expertise%3A+MLOps+%7C+Model+Deployment+%7C+A%2FB+Testing;%F0%9F%94%84+Integration%3A+RESTful+APIs+%7C+GraphQL+%7C+Webhooks+%7C+gRPC" alt="Enterprise Skills" />
 </p>
-
-<!-- Matrix-style coding animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Matrix Code" width="350"/>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=39FF14&center=true&vCenter=true&multiline=true&width=700&height=120&lines=System.out.println(%22Hello+World!%22)%3B;print(%22Building+Smart+Solutions%22);console.log(%22Innovation+in+Progress...%22)%3B;echo+%22Code.+Build.+Deploy.+Repeat.%22%3B" alt="Multi-language Code" />
-</div>
 
 ---
 
