@@ -1,22 +1,22 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Sumit Gupta</h1>
-<h3 align="center">A Passionate Full Stack Developer | Flutter & Android Enthusiast | AI & IoT Innovator</h3>
+<h3 align="center">🚀 Full Stack Developer | Flutter & Android Dev | AI-Driven Innovator | Cloud & IoT Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708957/screenshots/5760673/media/b6f8c6f6c9c84a03e37dcd7db62b62c3.gif">
-
-- 🔭 I’m currently working on **Smart Kisan - AI Powered Farming App**
-- 🌱 I’m learning **Next.js | TypeScript | Generative AI**
-- 💬 Ask me about **Flutter, Android, Firebase, Python, ML, Node.js, MongoDB**
-- 💡 I'm also exploring **IoT-enabled smart solutions** for agriculture
-- 🧠 Currently building **AI alerts, crop grading & data pipelines**
-- 📫 Reach me at: **sumitgupta.dev@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://your-resume-link.com)
+<p align="center">
+  <a href="https://github.com/sumitgupta"><img src="https://komarev.com/ghpvc/?username=sumitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgupta" /></a>
+  <a href="mailto:sumitgupta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sumit-gupta"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sumitgupta.dev"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-```bash
-Languages:     Java | Dart | Python | JavaScript | C++ | SQL
-Mobile:        Flutter | Android (Java)
-Web:           HTML | CSS | React.js | Next.js | Node.js | Express.js
-Database:      Firebase | MongoDB | MySQL
-Tools/Other:   Git | GitHub | VS Code | Postman | Figma | Firebase | Linux
+### 👨‍💻 About Me
+
+```txt
+💡 I’m a B.Tech CSE student at SAGE University, passionate about building impactful tech.
+🌱 Currently exploring: Next.js, TypeScript, AI Integration & IoT Platforms.
+🔧 Technologies I use daily: Flutter, Firebase, Python, MongoDB, Node.js, React.
+📱 Built 10+ mobile apps – some with 10K+ downloads.
+🌾 Founded Smart Kisan – An IoT & AI-powered crop management platform.
+🎯 Focused on performance, scalability, and real-world solutions.
