@@ -131,6 +131,45 @@
 
 ---
 
+## 🎨 Animated Tech Showcase
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%F0%9F%93%B1+Mobile+Development%3A+Flutter+%7C+Android+%7C+iOS;%F0%9F%8C%90+Web+Development%3A+React+%7C+Next.js+%7C+Node.js;%F0%9F%A4%96+AI%2FML%3A+Python+%7C+TensorFlow+%7C+Computer+Vision;%E2%9A%A1+IoT%3A+ESP32+%7C+Arduino+%7C+Real-time+Systems;%E2%98%81%EF%B8%8F+Cloud%3A+Firebase+%7C+AWS+%7C+MongoDB+Atlas;%F0%9F%9A%80+DevOps%3A+Git+%7C+CI%2FCD+%7C+Docker" alt="Tech Stack Animation" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=00D4AA&center=true&vCenter=true&width=700&lines=Building+the+Future+with+Code+%F0%9F%92%BB;Turning+Ideas+into+Digital+Reality+%E2%9C%A8;Innovation+Through+Technology+%F0%9F%9A%80" alt="Mission Statement" />
+</p>
+
+<!-- Animated Programming Languages -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&repeat=true&width=600&lines=const+developer+%3D+%7B;++name%3A+'Sumit+Gupta'%2C;++skills%3A+%5B'Flutter'%2C+'AI'%2C+'IoT'%5D%2C;++passion%3A+'Problem+Solving'%2C;++mission%3A+'Code+for+Impact';%7D%3B" alt="Code Animation" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="400"/>
+</div>
+
+<!-- Tech Stack with Animated Icons -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+Currently+Mastering%3A;TypeScript+%E2%9E%A4+Next.js+14+%E2%9E%A4+Advanced+AI%2FML;ESP32+IoT+%E2%9E%A4+Microservices+%E2%9E%A4+Cloud+Architecture" alt="Learning Path" />
+</p>
+
+<!-- Matrix-style coding animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Matrix Code" width="350"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=39FF14&center=true&vCenter=true&multiline=true&width=700&height=120&lines=System.out.println(%22Hello+World!%22)%3B;print(%22Building+Smart+Solutions%22);console.log(%22Innovation+in+Progress...%22)%3B;echo+%22Code.+Build.+Deploy.+Repeat.%22%3B" alt="Multi-language Code" />
+</div>
+
+---
+
 ## 🏅 Certifications & Achievements
 
 <table>
