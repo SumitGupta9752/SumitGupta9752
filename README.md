@@ -17,7 +17,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 
-🎓 **Computer Science Engineering Student** | 5th Semester @ SAGE University, Bhopal
+🎓 **Computer Science Engineering Student** | 7th Semester @ SAGE University, Bhopal
 
 🚀 **Passionate Full Stack Developer** specializing in mobile development, AI integration, and IoT solutions
 
